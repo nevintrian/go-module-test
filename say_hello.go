@@ -1,5 +1,5 @@
 package test1module
 
 func SayHello() string {
-	return "Hello"
+	return "Hello from module in github"
 }
